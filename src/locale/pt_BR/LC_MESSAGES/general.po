@@ -1,0 +1,5 @@
+msgid "Detected Windows registry changes:"
+msgstr "Foram detectadas alterações no registro do Windows:"
+
+msgid "Do you want to rollback?"
+msgstr "Deseja reverter?"
